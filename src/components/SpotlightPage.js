@@ -11,7 +11,7 @@ function SpotlightPage() {
       <p>Feel Free to Explore Around!</p>
       <div className='spotlight-btns'>
         <Button className='btns' buttonStyle='btn--outline'>
-          See My Projects!
+          See My Code!
         </Button>
       </div>
     </div>

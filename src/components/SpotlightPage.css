@@ -30,3 +30,40 @@ video {
   margin-top: 8px;
   padding-bottom: 10px;
 }
+
+.spotlight-btns {
+  margin-top: 32px;
+}
+
+/* for the future */
+.spotlight-btns,
+.btn {
+  margin: 6px;
+}
+
+@media screen and (max-width: 960px) {
+  .spotlight-container > h1 {
+    font-size: 70px;
+    margin-top: -150px;
+  }
+}
+
+@media screen and (max-width: 775px) {
+  .spotlight-container > h1 {
+    font-size: 50px;
+    margin-top: -100px;
+  }
+
+  .spotlight-container > p {
+    font-size: 25px;
+  }
+
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
