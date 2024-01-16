@@ -1,0 +1,16 @@
+.project {
+  display: flex;
+  flex-direction: column;
+}
+
+.project-item-head {
+  font-size: 1.75rem;
+  font-family: "Courier New", Courier, monospace;
+  padding-left: 30px;
+}
+
+.project-item-txt {
+  font-size: 1.25rem;
+  font-family: "Courier New", Courier, monospace;
+  padding: 15px;
+}
