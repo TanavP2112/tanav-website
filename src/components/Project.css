@@ -1,6 +1,11 @@
 .project {
   display: flex;
   flex-direction: column;
+  background: white;
+}
+
+.project > h1 {
+  margin: 10px;
 }
 
 .project-item-head {
@@ -12,5 +17,5 @@
 .project-item-txt {
   font-size: 1.25rem;
   font-family: "Courier New", Courier, monospace;
-  padding: 15px;
+  padding: 2%;
 }

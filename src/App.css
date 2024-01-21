@@ -7,8 +7,7 @@
 
 .home,
 .about,
-.projects,
-.source-code {
+.projects {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -27,14 +26,6 @@
 .projects {
   background-position: center;
   background-size: fill;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.source-code {
-  background-position: center;
-  background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;

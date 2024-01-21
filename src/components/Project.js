@@ -11,7 +11,8 @@ function Project() {
           <ul className='project-items'>
             <ProjectItem
               heading='Classification of Plant Leaves Using Transfer Learning'
-              text='hello'
+              text='This project was my first project with the SIGAIDA group in ACM (Association for Computing Machinery).
+               It involved me learning how to use TensorFlow.'
             />
           </ul>
         </div>

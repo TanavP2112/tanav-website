@@ -1,10 +1,12 @@
 import React from "react";
 import Project from "../Project";
+import Intro from "../Intro";
 
 function Projects() {
   return (
     <>
-      <Project />
+    <Intro title='Projects'/>
+    <Project />
     </>
   );
 }
